@@ -1,2 +1,2 @@
 # ezContent
-This is a tool that would generate content.
+This is a Python Program that utilsies Pillow, PyGUI and moviepy to create auto generated short form content.
